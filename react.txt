@@ -1,0 +1,67 @@
+
+
+
+
+className	-	Название класса, так как class зарезервированное слово
+
+
+В функции App.js ретурн только один элемент остальные в него
+
+
+Компонента	-	Функция возвращающая в ретурне разметку jsx
+
+
+Компоненту можно вложить в компоненту const cmp_1 = () = >{return()}  const cmp_2 = () = >{return()}
+			 const cmp_2 = () = >{return(<cmp_1 />)}
+
+
+
+
+Почитать
+
+	modules AMD require.js
+
+
+10	-	Import default
+		Auto import
+
+11	-	Грид
+
+
+
+
+
+React JS: 50 вопросов на собеседование
+
+https://www.youtube.com/watch?v=-cZOdWjFwXw
+
+
+
+
+React JS 2019 - Полный курс (вкл. Context, Hooks, Lazy, Suspense)
+
+https://www.youtube.com/watch?v=xJZa2_aldDs
+
+
+
+
+https://developer.mozilla.org/ru/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+
+
+
+
+
+ReactDOM.render()	-	Рендерит код в нужный нам тег ReactDOM.render(что выводим, где выводим)
+
+render:			-	рендер в классе render: function(){return(здесь код который будет в этом компаненте)}
+
+React.createClass({})	-	Создаем класс (похоже компанент) в котором пишем код
+
+
+
+
+
+
+
+
