@@ -16,6 +16,9 @@ let, var, ???	-	let локальная, var глобальная
 super()		-	Суперконструктор
 
 
+функция map мап
+
+
 handleChange
 handleSubmit
 
